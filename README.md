@@ -98,6 +98,7 @@ models/             # Trained model weights
 assets/             # Images for README
 notebooks/          # Training and experiments
 requirements.txt
+dataset
 README.md
 ```
 
