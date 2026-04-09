@@ -36,11 +36,11 @@ The goal is to build a reliable and scalable solution for automated PCB inspecti
 ### Intermediate Processing
 
 ![roi_missing_hole](assets/01_missing_hole_01_roi_0.jpg)
-![roi_mouse_bite](assets/01_mouse_bite_01_roi_0)
-![roi_open_circuit](assets/01_open_circuit_01_roi_1)
-![roi_short](assets/01_short_01_roi_0)
-![roi_spur](assets/01_spur_01_roi_0)
-![roi_spurious_copper](assets/01_spurious_copper_01_roi_0)
+![roi_mouse_bite](assets/01_mouse_bite_01_roi_0.jpg)
+![roi_open_circuit](assets/01_open_circuit_01_roi_1.jpg)
+![roi_short](assets/01_short_01_roi_0.jpg)
+![roi_spur](assets/01_spur_01_roi_0.jpg)
+![roi_spurious_copper](assets/01_spurious_copper_01_roi_0.jpg)
 
 ---
 
